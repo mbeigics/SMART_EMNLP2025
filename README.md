@@ -1,2 +1,3 @@
 # SMART-EMNLP2025
-This is the official page for Sycophancy Mitigation Through Reinforcement Learning with Uncertainty-Aware Adaptive Reasoning Trajectories
+This repository contains the official implementation and resources for the SMART project, accepted at EMNLP 2025.
+Our work focuses on mitigating sycophancy in large language models by leveraging reinforcement learning techniques that incorporate uncertainty-aware adaptive reasoning trajectories.
